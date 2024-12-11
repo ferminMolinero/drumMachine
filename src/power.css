@@ -1,0 +1,14 @@
+.powerBox {
+    height: 50px;
+    width: 50px;
+    border: 5px solid white;
+    margin: auto;
+}
+
+.powerBox.active {
+    background-color: green
+}
+
+.powerBox.inactive {
+    background-color: red
+}
